@@ -1,4 +1,4 @@
-# processHRRRFiles
+# ProcessHRRRFiles
 In this repository, you will find an well-organized procedure to retrieve publickly available Numerical Weather Prediction (NWP) model called High-Resolution Rapid Refresh (HRRR) system and process the wgrib2 files to create netCDF files for inputing to other weather prediction models. This procedure is developed for downscaling HRRR hourly analysis files to QES-Winds.
 
 # Instructions
