@@ -1,5 +1,5 @@
 # ProcessHRRRFiles
-In this repository, you will find a well-organized procedure to retrieve publickly available Numerical Weather Prediction (NWP) model called High-Resolution Rapid Refresh (HRRR--https://rapidrefresh.noaa.gov/hrrr) and process the wgrib2 files to create NetCDF files for inputing to other models. This procedure is developed for downscaling HRRR hourly analysis files to QES-Winds (https://github.com/UtahEFD/QES-Public).
+In this repository, you will find a well-organized procedure to retrieve publicly available Numerical Weather Prediction (NWP) model called High-Resolution Rapid Refresh (HRRR--https://rapidrefresh.noaa.gov/hrrr) and process the wgrib2 files to create NetCDF files for inputing to other models. This procedure is developed for downscaling HRRR hourly analysis files to QES-Winds (https://github.com/UtahEFD/QES-Public).
 
 # Instructions
 In this section, step by step instructions is provided on how to retrieve and process HRRR files.
